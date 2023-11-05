@@ -1,0 +1,41 @@
+/::
+custom_css: assets/custom.css
+::/
+
+## .[title]
+
+# Picocli, mets du Java dans ton terminal !
+
+🧑‍💻 ☕️
+
+!image(assets/images/opensourceexperience.png,, 17)
+
+!include(_speaker.sdf)
+
+!include(_CLI.sdf)
+
+!include(_java.sdf)
+
+!include(_picocli.sdf)
+
+!include(_demos.sdf)
+
+!include(_ovhcloud-api.sdf)
+
+!include(_ovhcloud-world.sdf)
+
+!include(_thanks.sdf)
+
+!include(_slidesk.sdf)
+
+## 🔗 Liens .[slide-text]
+
+!image(assets/images/opensourceexperience.png,,10,20, float: right; margin-top: -20vh)
+
+https://picocli.info/
+
+https://quarkus.io/ 
+
+https://quarkus.io/guides/cli-tooling
+
+https://quarkus.io/guides/dev-mode-differences  
