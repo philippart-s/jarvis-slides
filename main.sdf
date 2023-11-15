@@ -24,9 +24,9 @@ custom_css: assets/custom.css
 
 !include(_ovhcloud-world.sdf)
 
-!include(_thanks.sdf)
-
 !include(_slidesk.sdf)
+
+!include(_thanks.sdf)
 
 ## 🔗 Liens .[slide-text]
 

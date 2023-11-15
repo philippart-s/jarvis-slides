@@ -2,7 +2,7 @@
 
 <table style="font-size: 1.5vw; text-align: center; width: 100%;">
     <tr>
-        <td>!image(assets/images/thanks/qrcode-slides.png, qrcode slides, 20, 33, margin: 0 auto;)</td>
+        <td>!image(assets/images/thanks/qrcode-slides.png, qrcode slides, 21, 33, margin: 0 auto;)</td>
         <td>!image(assets/images/thanks/qrcode.png, qrcode, 15, 26, margin: 0 auto;)</td>
     </tr>
     <tr>

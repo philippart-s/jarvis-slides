@@ -110,10 +110,13 @@ h2 {
 
 .ovhcloud-world {
   background-image: url(images/ovhcloud-world.png);
-  background-size: cover;
+  background-size: 95%;
+  background-repeat:no-repeat;
+  background-position: center;
   display: block;
 }
 
 .ovhcloud-world h2 {
   color: #000;
+  text-align: left;
 }
