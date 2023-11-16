@@ -120,3 +120,14 @@ h2 {
   color: #000;
   text-align: left;
 }
+
+.graal {
+  background-image: url(images/graal.jpeg);
+  background-size: cover;
+  display: block;
+}
+
+.graal h2 {
+  color: #fff;
+  vertical-align: middle;
+}

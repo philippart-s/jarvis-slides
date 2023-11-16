@@ -20,6 +20,10 @@ custom_css: assets/custom.css
 
 !include(_demos.sdf)
 
+!include(_houra.sdf)
+
+!include(_graalvm.sdf)
+
 !include(_ovhcloud-api.sdf)
 
 !include(_ovhcloud-world.sdf)
@@ -38,4 +42,8 @@ https://quarkus.io/
 
 https://quarkus.io/guides/cli-tooling
 
+https://quarkus.io/guides/picocli
+
 https://quarkus.io/guides/dev-mode-differences  
+
+https://www.graalvm.org/latest/docs/getting-started/
