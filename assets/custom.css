@@ -121,12 +121,21 @@ h2 {
   text-align: left;
 }
 
-.graal {
-  background-image: url(images/graal.jpeg);
-  background-size: cover;
+.graal h2 {
+  color: #000;
+  vertical-align: middle;
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  font-size: 300%;
+  backdrop-filter: blur(5px) saturate(80%);
 }
 
-.graal h2 {
-  color: #fff;
+.love h2 {
+  color: #ffff;
   vertical-align: middle;
+  position: absolute;
+  top: 40%;
+  left: 55%;
+  font-size: 300%;
 }
