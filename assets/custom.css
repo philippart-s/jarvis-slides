@@ -31,32 +31,7 @@ h2 {
   font-family: Amatic;
 }
 
-/**.sd-slide::before {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background-image: url(images/bg_left-min.png);
-  background-size: cover;
-  background-position: bottom left;
-  z-index: -1;
-}
 
-.sd-slide::after {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background-image: url(images/bg_right-min.png);
-  background-size: cover;
-  background-position: bottom right;
-  z-index: -1;
-}
-*/
 .title {
   justify-content: end;
 }
@@ -72,6 +47,7 @@ h2 {
 
 .slide-text ul {
   margin: 2rem;
+  width: 62%;
 }
 
 .slide-text ul li {
@@ -131,11 +107,48 @@ h2 {
   backdrop-filter: blur(5px) saturate(80%);
 }
 
-.love h2 {
-  color: #ffff;
-  vertical-align: middle;
-  position: absolute;
-  top: 40%;
-  left: 55%;
-  font-size: 300%;
+/****
+ * Global styles
+ ****/
+.img-right {
+  position: absolute; 
+  right: 20px;
 }
+
+.img-right-author {
+  position: absolute;
+  font-size: small;
+  bottom: 1%;
+  right: 1%;
+}
+
+/****
+ * CSS Styles for _merciii.sdf slide
+ ****/
+
+.love h2 {
+  color: #fff;
+  position: relative;
+  top: 65%;
+  left: 25%;
+  font-size: 300%;  
+}
+
+.love-image-author {
+  color: #ffff;
+  position: absolute;
+  bottom: 30px;
+  right: 2px;
+  font-size: medium;
+}
+
+/****
+ * CSS Styles for _CLI.sdf slide
+ ****/
+ .cli-image-author-ubuntu {
+  color: #fff;
+}
+
+.cli-image-author-language {
+  color: black;
+ }
