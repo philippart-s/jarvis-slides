@@ -47,6 +47,7 @@ h2 {
 
 .slide-text ul {
   margin: 2rem;
+  width: 62%;
 }
 
 .slide-text ul li {
@@ -107,6 +108,21 @@ h2 {
 }
 
 /****
+ * Global styles
+ ****/
+.img-right {
+  position: absolute; 
+  right: 20px;
+}
+
+.img-right-author {
+  position: absolute;
+  font-size: small;
+  bottom: 1%;
+  right: 1%;
+}
+
+/****
  * CSS Styles for _merciii.sdf slide
  ****/
 
@@ -129,11 +145,10 @@ h2 {
 /****
  * CSS Styles for _CLI.sdf slide
  ****/
- .cli-image-author {
+ .cli-image-author-ubuntu {
   color: #fff;
-  vertical-align: bottom;
-  position: absolute;
-  top: 73%;
-  left: 90%;
-  font-size: small;
 }
+
+.cli-image-author-language {
+  color: black;
+ }
