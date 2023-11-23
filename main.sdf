@@ -10,31 +10,31 @@ custom_css: assets/custom.css
 
 !image(assets/images/opensourceexperience.png,, 17)
 
-!include(_merciii.sdf)
+!include(slides/merciii.sdf)
 
-!include(_speaker.sdf)
+!include(slides/speaker.sdf)
 
-!include(_CLI.sdf)
+!include(slides/CLI.sdf)
 
-!include(_java.sdf)
+!include(slides/java.sdf)
 
-!include(_picocli.sdf)
+!include(slides/picocli.sdf)
 
-!include(_demos.sdf)
+!include(slides/demos.sdf)
 
-!include(_houra.sdf)
+!include(slides/houra.sdf)
 
-!include(_graalvm.sdf)
+!include(slides/graalvm.sdf)
 
-!include(_picocli-advanced.sdf)
+!include(slides/picocli-advanced.sdf)
 
-!include(_ovhcloud-api.sdf)
+!include(slides/ovhcloud-api.sdf)
 
-!include(_ovhcloud-world.sdf)
+!include(slides/ovhcloud-world.sdf)
 
-!include(_slidesk.sdf)
+!include(slides/slidesk.sdf)
 
-!include(_thanks.sdf)
+!include(slides/thanks.sdf)
 
 ## 🔗 Liens .[slide-text]
 
