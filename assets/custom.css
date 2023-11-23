@@ -106,11 +106,34 @@ h2 {
   backdrop-filter: blur(5px) saturate(80%);
 }
 
+/****
+ * CSS Styles for _merciii.sdf slide
+ ****/
+
 .love h2 {
+  color: #fff;
+  position: relative;
+  top: 65%;
+  left: 25%;
+  font-size: 300%;  
+}
+
+.love-image-author {
   color: #ffff;
-  vertical-align: middle;
   position: absolute;
-  top: 40%;
-  left: 55%;
-  font-size: 300%;
+  bottom: 30px;
+  right: 2px;
+  font-size: medium;
+}
+
+/****
+ * CSS Styles for _CLI.sdf slide
+ ****/
+ .cli-image-author {
+  color: #fff;
+  vertical-align: bottom;
+  position: absolute;
+  top: 73%;
+  left: 90%;
+  font-size: small;
 }
