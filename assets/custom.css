@@ -31,7 +31,6 @@ h2 {
   font-family: Amatic;
 }
 
-
 .title {
   justify-content: end;
 }
@@ -87,7 +86,7 @@ h2 {
 .ovhcloud-world {
   background-image: url(images/ovhcloud-world.png);
   background-size: 95%;
-  background-repeat:no-repeat;
+  background-repeat: no-repeat;
   background-position: center;
   display: block;
 }
@@ -111,7 +110,7 @@ h2 {
  * Global styles
  ****/
 .img-right {
-  position: absolute; 
+  position: absolute;
   right: 20px;
 }
 
@@ -126,16 +125,22 @@ h2 {
  * CSS Styles for _merciii.sdf slide
  ****/
 
+.love {
+  background-image: url(images/love.jpg);
+  background-size: cover;
+  display: block;
+}
+
 .love h2 {
   color: #fff;
   position: relative;
   top: 65%;
   left: 25%;
-  font-size: 300%;  
+  font-size: 300%;
 }
 
 .love-image-author {
-  color: #ffff;
+  color: #fff;
   position: absolute;
   bottom: 30px;
   right: 2px;
@@ -145,10 +150,10 @@ h2 {
 /****
  * CSS Styles for _CLI.sdf slide
  ****/
- .cli-image-author-ubuntu {
+.cli-image-author-ubuntu {
   color: #fff;
 }
 
 .cli-image-author-language {
   color: black;
- }
+}
