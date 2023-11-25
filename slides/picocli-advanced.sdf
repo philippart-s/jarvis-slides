@@ -1,6 +1,10 @@
 ## ✨ Pour aller plus loin .[slide-text steps]
 
-!image(assets/images/buzz.jpg, buzz l'éclair, 200px,200px, float: right)
+<div class="img-right">
+  <div class="cli-image-author-ubuntu img-right-author"><a href="https://unsplash.com/fr/@sushioutlaw">Brian McGowan</a></div>
+
+  <img src="assets/images/buzz.jpg" alt="buzz l'éclair">
+</div>
 
 - 📦 Encapsulation automatique des types et converteurs
 - 🔡 Valeurs par défaut dynamiques, validation des valeurs, liste de choix, ...
