@@ -74,6 +74,9 @@ h2 {
   color: #fff;
 }
 
+/****
+ * CSS Styles for _demos.sdf slide
+ ****/
 .demos {
   background-image: url(images/demos.jpg);
   background-size: cover;
@@ -83,6 +86,18 @@ h2 {
 .demos h2 {
   color: #000;
 }
+
+.demo-image-author a {
+  color: black;
+}
+
+/****
+ * CSS Styles for _picocli-advanced.sdf slide
+ ****/
+.pico-advanced a {
+  color: black;
+}
+
 
 .ovhcloud-world {
   background-image: url(images/ovhcloud-world.png);
@@ -108,9 +123,35 @@ h2 {
 }
 
 /****
+ * CSS Styles for _merciii.sdf slide
+ ****/
+.love h2 {
+  color: #fff;
+  position: relative;
+  top: 65%;
+  left: 25%;
+  font-size: 300%;
+}
+
+.love-image-author a {
+  color: #fff;
+}
+
+/****
+ * CSS Styles for _CLI.sdf slide
+ ****/
+.cli-image-author-ubuntu a {
+  color: #fff;
+}
+
+.cli-image-author-language a {
+  color: black;
+}
+
+/****
  * Global styles
  ****/
-.img-right {
+ .img-right {
   position: absolute;
   right: 20px;
 }
@@ -122,33 +163,9 @@ h2 {
   right: 1%;
 }
 
-/****
- * CSS Styles for _merciii.sdf slide
- ****/
-
-.love h2 {
-  color: #fff;
-  position: relative;
-  top: 65%;
-  left: 25%;
-  font-size: 300%;
-}
-
-.love-image-author {
-  color: #fff;
+.full-image-author {
   position: absolute;
   bottom: 30px;
   right: 2px;
   font-size: medium;
-}
-
-/****
- * CSS Styles for _CLI.sdf slide
- ****/
-.cli-image-author-ubuntu {
-  color: #fff;
-}
-
-.cli-image-author-language {
-  color: black;
 }
