@@ -2,8 +2,8 @@
 
 <table style="font-size: 1.5vw; text-align: center; width: 100%;">
     <tr>
-        <td>!image(assets/images/thanks/qrcode-slides.png, qrcode slides, 21, 33, margin: 0 auto;)</td>
-        <td>!image(assets/images/thanks/qrcode.png, qrcode, 15, 26, margin: 0 auto;)</td>
+        <td align="center" width="50%"><img src="assets/images/thanks/qrcode-slides.png" alt=""/></td>
+        <td align="center" width="50%"><img src="assets/images/thanks/qrcode.png" alt="" width="29%"/></td>
     </tr>
     <tr>
         <td>
@@ -16,6 +16,8 @@
         </td>
     </tr>
 </table>
-<h2>Merci !!!<h2>
+<h2>Merci !!!</h2>
 
-!image(assets/images/thanks/minions.png, minious, 20, 32)
+
+<img style="text-align: center;" src="assets/images/thanks/minions.png" alt="" width="20%"/>
+
