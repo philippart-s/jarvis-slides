@@ -1,4 +1,4 @@
 {
-  "addHtmlFromFiles": ["./plugins/footer/footer.html"],
+  "addHTMLFromFiles": ["./plugins/footer/footer.html"],
   "addStyles": ["./plugins/footer/footer.css"]
 }
