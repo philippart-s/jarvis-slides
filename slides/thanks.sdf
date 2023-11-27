@@ -2,20 +2,26 @@
 
 <table style="font-size: 1.5vw; text-align: center; width: 100%;">
     <tr>
-        <td align="center" width="50%"><img src="assets/images/thanks/qrcode-slides.png" alt=""/></td>
-        <td align="center" width="50%"><img src="assets/images/thanks/qrcode.png" alt="" width="29%"/></td>
+        <td align="center" width="33%"><img src="assets/images/thanks/qrcode-slides.png" width="50%" alt=""/></td>
+        <td align="center" width="33%"><img src="assets/images/thanks/qrcode-feedbacks.png" alt="" width="50%"/></td>
+        <td align="center" width="33%"><img src="assets/images/thanks/qrcode-sources.png" alt="" width="50%"/></td>
     </tr>
     <tr>
         <td>
             Slides<br />
-            https://bit.ly/ossx23-picocli-slides 
+            http://q-r.to/osxp-2023-slides 
         </td>
         <td>
             Feedbacks<br />
-            https://bit.ly/ossx23-picocli-feedbacks 
+            http://q-r.to/osxp-2023-feedbacks 
+        </td>
+        <td>
+            Sources<br/>
+            http://q-r.to/osxp-2023-jarvis 
         </td>
     </tr>
 </table>
+
 <h2>Merci !!!</h2>
 
 
