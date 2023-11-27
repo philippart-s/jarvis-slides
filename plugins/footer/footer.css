@@ -39,17 +39,3 @@
   transform: translateY(-50%);
   font-size: 0.4em;
 }
-
-/****
- * Predefined black color
- ****/
-.black-text-color-footer {
-  color: black;
-}
-
-/****
- * Predefined white color
- ****/
-.white-text-color-footer {
-  color: white;
-}
