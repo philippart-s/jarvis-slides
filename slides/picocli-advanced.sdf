@@ -8,6 +8,6 @@
 
 - 📦 Encapsulation automatique des types et converteurs
 - 🔡 Valeurs par défaut dynamiques, validation des valeurs, liste de choix, ...
-- ⛑️ Génération de des pages __man__, coloration, </br>aide avancée
+- ⛑️ Génération des pages __man__, coloration, </br>aide avancée
 - ⚙️ Plusieurs exécutables par OS avec GraalVM
 - ...
