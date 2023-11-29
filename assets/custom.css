@@ -172,3 +172,9 @@ h2 {
 .sd-slide.demos.sd-current ~ .footer {
   color: #fff;
 }
+
+.sd-slide.love.sd-current ~ .footer .ovhcloud-footer img,
+.sd-slide.lego.sd-current ~ .footer .ovhcloud-footer img,
+.sd-slide.demos.sd-current ~ .footer .ovhcloud-footer img {
+  background-color: #fff;
+}

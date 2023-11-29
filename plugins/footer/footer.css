@@ -8,6 +8,7 @@
   width: 100%;
   color: rgb(0, 0, 0);
   text-align: center;
+  transition: all var(--animationTimer) ease;
 }
 
 /****
@@ -21,8 +22,8 @@
 }
 
 .ovhcloud-footer img {
-  background-color: #fff;
   padding: 2px;
+  transition: all var(--animationTimer) ease;
 }
 
 /****
