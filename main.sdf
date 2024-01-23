@@ -10,7 +10,7 @@ custom_css: assets/custom.css
 
 !image(assets/images/SnowCampLogo500x500.png,, 323) SNOWCAMP 2024 
 
-!include(slides/merciii.sdf)
+!include(slides/sponsors.sdf)
 
 !include(slides/speaker.sdf)
 
