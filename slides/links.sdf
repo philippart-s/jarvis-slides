@@ -1,6 +1,6 @@
 ## 🔗 Liens .[slide-text]
 
-!image(assets/images/opensourceexperience.png,,173,202, float: right; margin-top: -20vh)
+!image(assets/images/SnowCampLogo500x500.png,,173,202, float: right; margin-top: -20vh)
 
 https://picocli.info/
 
@@ -15,3 +15,5 @@ https://quarkus.io/guides/dev-mode-differences
 https://www.graalvm.org/latest/docs/getting-started/
 
 https://github.com/quarkusio/quarkus/tree/main/devtools/cli
+
+https://github.com/gouz/slidesk

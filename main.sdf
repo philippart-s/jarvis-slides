@@ -8,9 +8,9 @@ custom_css: assets/custom.css
 
 🧑‍💻 ☕️
 
-!image(assets/images/opensourceexperience.png,, 323)
+!image(assets/images/SnowCampLogo500x500.png,, 323) SNOWCAMP 2024 
 
-!include(slides/merciii.sdf)
+!include(slides/sponsors.sdf)
 
 !include(slides/speaker.sdf)
 
@@ -34,7 +34,7 @@ custom_css: assets/custom.css
 
 !include(slides/ovhcloud-world.sdf)
 
-!include(slides/slidesk.sdf)
+<!-- !include(slides/slidesk.sdf) -->
 
 !include(slides/thanks.sdf)
 
