@@ -17,7 +17,7 @@
 .ovhcloud-footer {
   position: absolute;
   left: 0%;
-  top: 50%;
+  bottom: 0%;
   transform: translateY(-50%);
 }
 
@@ -41,7 +41,7 @@
 .author-footer {
   position: absolute;
   right: 0%;
-  top: 50%;
+  bottom: 0%;
   transform: translateY(-50%);
   font-size: 0.4em;
 }

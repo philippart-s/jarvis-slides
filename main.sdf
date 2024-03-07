@@ -2,15 +2,13 @@
 custom_css: assets/custom.css
 ::/
 
-## .[title]
+## 
 
 # Picocli, mets du Java dans ton terminal !
 
 🧑‍💻 ☕️
 
-!image(assets/images/SnowCampLogo500x500.png,, 323) SNOWCAMP 2024 
-
-!include(slides/sponsors.sdf)
+!image(assets/images/Devoxx-France.png,, ) 
 
 !include(slides/speaker.sdf)
 
@@ -33,8 +31,6 @@ custom_css: assets/custom.css
 !include(slides/ovhcloud-api.sdf)
 
 !include(slides/ovhcloud-world.sdf)
-
-<!-- !include(slides/slidesk.sdf) -->
 
 !include(slides/thanks.sdf)
 
