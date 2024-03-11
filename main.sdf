@@ -2,13 +2,9 @@
 custom_css: assets/custom.css
 ::/
 
-## 
+# Picocli, mets du Java dans ton terminal ! 🧑‍💻 ☕️
 
-# Picocli, mets du Java dans ton terminal !
-
-🧑‍💻 ☕️
-
-!image(assets/images/Devoxx-France.png,, ) 
+!image(assets/images/devoxx-france-2024/DevoxxFR2024_0022.jpg,,, 400) 
 
 !include(slides/speaker.sdf)
 
