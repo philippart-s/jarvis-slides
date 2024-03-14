@@ -130,3 +130,4 @@ dist
 index.html
 out/*
 .DS_Store
+build/
