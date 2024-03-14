@@ -1,10 +1,14 @@
 /::
-custom_css: assets/custom.css
+custom_css: assets/css/custom.css
+add_styles: assets/css/devoxx-fr-2024/theme.css
+add_scripts: assets/js/devoxx-fr-2024/theme.js
 ::/
 
-# Picocli, mets du Java dans ton terminal ! 🧑‍💻 ☕️
+## .[main-slide]
 
-!image(assets/images/devoxx-france-2024/DevoxxFR2024_0022.jpg,,, 400) 
+# Picocli, mets du Java dans ton terminal ! 
+
+🧑‍💻 ☕️
 
 !include(slides/speaker.sdf)
 
