@@ -116,6 +116,16 @@ h2 {
 }
 
 /****
+* CSS styles for ai-everywhere
+****/
+.buzz-ai {
+  background-image: url(../images/buzz-ai.jpg);
+  background-size: cover;
+  display: block;
+}
+
+
+/****
  * Global styles
  ****/
 .img-right {

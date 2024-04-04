@@ -26,9 +26,13 @@ add_scripts: assets/js/devoxx-fr-2024/theme.js
 
 !include(slides/graalvm.sdf)
 
+!include(slides/ai-everywhere.sdf)
+
 !include(slides/picocli-advanced.sdf)
 
-!include(slides/ovhcloud-api.sdf)
+// !include(slides/ovhcloud-api.sdf)
+
+!include(slides/ovhcloud-ai-endpoints.sdf)
 
 !include(slides/ovhcloud-world.sdf)
 
