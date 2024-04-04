@@ -6,9 +6,9 @@ add_scripts: assets/js/devoxx-fr-2024/theme.js
 
 ## .[main-slide]
 
-# Picocli, mets du Java dans ton terminal ! 
+# Picocli, </br>mets du Java dans ton terminal ! </br></br></br>
 
-🧑‍💻 ☕️
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🧑‍💻 ☕️
 
 !include(slides/speaker.sdf)
 
