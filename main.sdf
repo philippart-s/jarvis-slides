@@ -1,7 +1,5 @@
 /::
 custom_css: assets/css/custom.css
-add_styles: assets/css/devoxx-fr-2024/theme.css
-add_scripts: assets/js/devoxx-fr-2024/theme.js
 ::/
 
 ## .[main-slide]
