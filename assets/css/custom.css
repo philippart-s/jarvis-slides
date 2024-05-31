@@ -64,23 +64,14 @@ h2 {
 /****
  * CSS Styles for _java.sdf slide
  ****/
- .lego h2 {
-  color: #fff;
-  position: absolute;
-  font-size: 300%;
-  top: 15%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  z-index: 1;
+ .lego {
+  background-image: url(../images/lego.jpeg);
+  background-size: cover;
+  display: block;
 }
 
-.lego-image-author {
+.lego h2 {
   color: #fff;
-  position: absolute;
-  z-index: 1;
-  bottom: 3%;
-  right: 17%;
-  font-size: small;
 }
 
 /****
@@ -97,7 +88,7 @@ h2 {
 }
 
 .demo-image-author a {
-  color: black;
+  color: #fff;
 }
 
 /****
