@@ -110,7 +110,7 @@ h2 {
   color: #260691;
   text-align: left;
   position: absolute;
-  top: 15%;
+  top: 5%;
   left: 5%;
 }
 
@@ -120,6 +120,7 @@ h2 {
   position: absolute;
   top: 35%;
   left: 50%;
+  font-size: 300%;
   backdrop-filter: blur(5px) saturate(80%);
 }
 
@@ -179,13 +180,6 @@ h2 {
   bottom: 30px;
   right: 2px;
   font-size: medium;
-}
-
-
-.thanks-slide h2 {
-  font-size: 5vw;
-  position: absolute;
-  top: 5%
 }
 
 /** gestion des couleurs du footer **/
