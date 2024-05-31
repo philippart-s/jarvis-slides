@@ -1,7 +1,7 @@
 /****
  * CSS for center element
  ****/
-.footer {
+ .footer {
   position: fixed;
   left: 0;
   bottom: 0;
@@ -17,8 +17,9 @@
 .ovhcloud-footer {
   position: absolute;
   left: 0%;
-  bottom: 0%;
+  top: 50%;
   transform: translateY(-50%);
+  z-index: 0;
 }
 
 .ovhcloud-footer img {
@@ -33,7 +34,6 @@
   margin: 0 auto;
   width: 100px;
   text-align: center;
-  transform: translateY(-20%);
 }
 
 /****
@@ -42,6 +42,7 @@
 .author-footer {
   position: absolute;
   right: 0%;
-  transform: translateY(-35%);
+  top: 50%;
+  transform: translateY(-50%);
   font-size: 0.4em;
 }

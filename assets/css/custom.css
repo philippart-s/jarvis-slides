@@ -1,5 +1,36 @@
+:root {
+  --sd-heading1-size: 6.5vw;
+  --sd-heading1-line-height: 1;
+  --sd-heading2-size: 5vw;
+  --sd-heading2-line-height: 1;
+  --sd-text-line-height: 1.2;
+  --sd-background-color: #fff;
+  --sd-heading-color: #000;
+  --sd-text-color: #000;
+  --sd-primary-color: #0097a7;
+}
+
+@font-face {
+  font-family: Amatic;
+  src: url(../fonts/Amatic_SC/AmaticSC-Bold.ttf);
+}
+
+@font-face {
+  font-family: Montserrat;
+  src: url(../fonts/Montserrat/Montserrat-VariableFont_wght.ttf);
+}
+
+* {
+  font-family: Montserrat;
+}
+
+h1,
 h2 {
-  font-size: 3vw;
+  font-family: Amatic;
+}
+
+.title {
+  justify-content: end;
 }
 
 .slide-text {
@@ -30,14 +61,26 @@ h2 {
   line-height: 1.6em;
 }
 
-.lego {
-  background-image: url(../images/lego.jpeg);
-  background-size: cover;
-  display: block;
+/****
+ * CSS Styles for _java.sdf slide
+ ****/
+ .lego h2 {
+  color: #fff;
+  position: absolute;
+  font-size: 300%;
+  top: 15%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
 }
 
-.lego h2 {
+.lego-image-author {
   color: #fff;
+  position: absolute;
+  z-index: 1;
+  bottom: 3%;
+  right: 17%;
+  font-size: small;
 }
 
 /****
@@ -156,5 +199,6 @@ h2 {
 
 /** gestion des couleurs du footer **/
 .sd-slide.love.sd-current ~ .footer,
-.sd-slide.lego.sd-current ~ .footer
-
+.sd-slide.demos.sd-current ~ .footer {
+  color: #fff;
+}

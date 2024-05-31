@@ -4,9 +4,7 @@ custom_css: assets/css/custom.css
 
 ## .[main-slide]
 
-# Picocli, </br>mets du Java dans ton terminal ! </br></br></br>
-
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🧑‍💻 ☕️
+# Picocli, </br>mets du Java dans ton terminal ! 🧑‍💻 ☕️
 
 !include(slides/speaker.sdf)
 
