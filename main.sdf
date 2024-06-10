@@ -5,6 +5,10 @@ custom_css: assets/css/custom.css
 ## .[main-slide]
 
 # Picocli, </br>mets du Java dans ton terminal ! 🧑‍💻 ☕️
+</br>
+</br>
+
+!image(assets/images/voxxed-days-lux-logo-gray.png,, 323)
 
 !include(slides/speaker.sdf)
 
