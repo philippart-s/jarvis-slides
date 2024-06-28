@@ -8,7 +8,7 @@ custom_css: assets/css/custom.css
 </br>
 </br>
 
-!image(assets/images/voxxed-days-lux-logo-gray.png,, 323)
+!image(assets/images/riviera-dev-logo.png,, )
 
 !include(slides/speaker.sdf)
 
