@@ -1,7 +1,7 @@
 /****
  * CSS for center element
  ****/
-.footer {
+ .footer {
   position: fixed;
   left: 0;
   bottom: 0;
@@ -9,6 +9,7 @@
   color: rgb(0, 0, 0);
   text-align: center;
   transition: all var(--animationTimer) ease;
+  z-index: 10;
 }
 
 /****

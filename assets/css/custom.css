@@ -12,12 +12,12 @@
 
 @font-face {
   font-family: Amatic;
-  src: url(fonts/Amatic_SC/AmaticSC-Bold.ttf);
+  src: url(../fonts/Amatic_SC/AmaticSC-Bold.ttf);
 }
 
 @font-face {
   font-family: Montserrat;
-  src: url(fonts/Montserrat/Montserrat-VariableFont_wght.ttf);
+  src: url(../fonts/Montserrat/Montserrat-VariableFont_wght.ttf);
 }
 
 * {
@@ -61,8 +61,11 @@ h2 {
   line-height: 1.6em;
 }
 
-.lego {
-  background-image: url(images/lego.jpeg);
+/****
+ * CSS Styles for _java.sdf slide
+ ****/
+ .lego {
+  background-image: url(../images/lego.jpeg);
   background-size: cover;
   display: block;
 }
@@ -75,7 +78,7 @@ h2 {
  * CSS Styles for _demos.sdf slide
  ****/
 .demos {
-  background-image: url(images/demos.jpg);
+  background-image: url(../images/demos.jpg);
   background-size: cover;
   display: block;
 }
@@ -85,7 +88,7 @@ h2 {
 }
 
 .demo-image-author a {
-  color: black;
+  color: #fff;
 }
 
 /****
@@ -96,7 +99,7 @@ h2 {
 }
 
 .ovhcloud-world {
-  background-image: url(images/ovhcloud-world.png);
+  background-image: url(../images/ovhcloud-world.png);
   background-size: 95%;
   background-repeat: no-repeat;
   background-position: center;
@@ -104,8 +107,11 @@ h2 {
 }
 
 .ovhcloud-world h2 {
-  color: #000;
+  color: #260691;
   text-align: left;
+  position: absolute;
+  top: 5%;
+  left: 5%;
 }
 
 .graal h2 {
@@ -145,6 +151,16 @@ h2 {
 }
 
 /****
+* CSS styles for ai-everywhere
+****/
+.buzz-ai {
+  background-image: url(../images/buzz-ai.jpg);
+  background-size: cover;
+  display: block;
+}
+
+
+/****
  * Global styles
  ****/
 .img-right {
@@ -168,7 +184,6 @@ h2 {
 
 /** gestion des couleurs du footer **/
 .sd-slide.love.sd-current ~ .footer,
-.sd-slide.lego.sd-current ~ .footer,
 .sd-slide.demos.sd-current ~ .footer {
   color: #fff;
 }
