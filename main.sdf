@@ -8,7 +8,7 @@ custom_css: assets/css/custom.css
 </br>
 </br>
 
-!image(assets/images/riviera-dev-logo.png,, )
+!image(assets/images/logo_black.png,, )
 
 !include(slides/speaker.sdf)
 
