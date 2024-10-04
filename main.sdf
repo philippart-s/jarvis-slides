@@ -10,6 +10,8 @@ custom_css: assets/css/custom.css
 
 !image(assets/images/logo_black.png,, )
 
+!include(slides/merciii.sdf)
+
 !include(slides/speaker.sdf)
 
 !include(slides/CLI.sdf)
