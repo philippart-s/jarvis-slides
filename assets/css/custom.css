@@ -171,8 +171,9 @@ h2 {
 .img-right-author {
   position: absolute;
   font-size: small;
-  bottom: 1%;
+  bottom: 5%;
   right: 1%;
+  z-index: 2;
 }
 
 .full-image-author {
