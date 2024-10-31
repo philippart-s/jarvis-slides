@@ -5,7 +5,7 @@
 <div class="img-right">
   <div class="cli-image-author-ubuntu img-right-author"><a href="https://unsplash.com/fr/@6heinz3r"> Gabriel Heinzer</a></div>
 
-  <img src="assets/images/CLI/ubuntu.png" alt="ubuntu">
+  !image(assets/images/CLI/ubuntu.png, ubuntu, 512, 384)
 </div>
 
 - ✨ Faire du hype avec de l’ancien
