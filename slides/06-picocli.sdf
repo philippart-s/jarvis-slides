@@ -1,0 +1,11 @@
+## 🏋️ PICOCLI .[slide-text steps]
+
+!image(assets/images/picocli.png, picocli,,, float: right; margin-top: -18vh;)
+
+<div class="full-image-author image-author-black"><a href="https://picocli.info/">Picocli</a></div>
+
+- ☕️ Java to make a CLI...
+- ... but not only: <img src="assets/images/groovy.png" width="100px" style="display: inline-block; vertical-align: middle;"/>&nbsp;<img src="assets/images/kotlin.png" width="50px" style="display: inline-block; vertical-align: middle;"/>&nbsp;<img src="assets/images/scala.png" width="60px" style="display: inline-block; vertical-align: middle;"/>
+- 🥰 Simple with annotations
+- 🚀 Quarkus ❤️
+- 🧐 A real CLI?
