@@ -9,3 +9,13 @@
 - ⛑️ Generating __man__ pages, coloring, advanced help
 - ⚙️ Several executables per OS with GraalVM
 - ...
+
+/*
+
+If you want to go further with Picocli.
+You can manipulate more sophisticated types with Picocli, even create your own converters.
+You can use more default values with dynamic values, validation ans so one.
+You can generate man pages, you can have syntax coloring, you can have advanced help.
+Again, executables are generated for the current OS, don't forget that when you want to distribute your application.
+
+*/
