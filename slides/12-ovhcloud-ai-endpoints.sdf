@@ -11,9 +11,11 @@
 
 /*
 If you want more information about AI endpoints, here is a brief overview:
-AI endpoints provide AI as a service, offering various models like Llama, Mistral, and more. 
+AI endpoints provides AI as a service, offering various models like Llama, Mistral, and more. 
 They are made for developers, making them easy to integrate and use. 
 Your data is safe and secure in our trusted cloud environment.
-Additionally, these endpoints comply with standard APIs, allowing you to unlock and leverage the latest AI technologies effortlessly.
-Visit the link to explore more and get started with AI endpoints today.
+Additionally, these endpoints comply with standard APIs.
+
+And for a few days it's in general availability!
+
 */

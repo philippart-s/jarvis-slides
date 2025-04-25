@@ -14,18 +14,20 @@
 
 Just few slides before coding.
 
-If you are looking for Java CLI you will come across Picocli it is the most represented framework to make a CLI. 
+If you are looking to create a CLI with Java, there is a high chances that you will come across Picocli, it is the most represented framework to make a CLI with Java.
+
 Not only in pure Java but also in Kotlin, Scala and Groovy.
 
-With Picocli it's a lot of annotations to simplify the writing, if you left Java 15 years ago: Java is like the others now we have annotations and syntactic sugar we just make arobas and then it works by magic, it's a big summary.
+With Picocli it's a lot of annotations to simplify the writing, if you left Java 15 years ago: Java is like the others now we have annotations and syntactic sugar.
+We just make arobas and then it works by magic, it's a big summary, obviously.
 
 I will use Quarkus too.
 Who knows Quarkus, who uses Quarkus in production?
-Quarkus subatomic supersonic Java: it's their mantra not mine.
-What I'm saying is like Java take a lot of vitamines! 
+Quarkus mantra is: subatomic, supersonic, Java.
+What I'm saying is like your Java applications take a lot of vitamines! 
 It's very efficient for cloud native development.
 But we're not going to use it on the cloud native part we're going to use if for the developer experience.
 
-You'll see it's quite magical and what I propose is at the end of this talk is to know if I won my bet: did I make you a CLI in Java?
+You'll see it's quite magical and what I propose is, at the end of this talk, to know if I won my bet: did I make you a CLI in Java?
 
 */
