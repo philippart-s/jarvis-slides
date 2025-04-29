@@ -4,9 +4,9 @@
 
 <table style="font-size: 1.5vw; text-align: center; width: 100%;">
     <tr>
-        <td align="center" width="33%"><img src="assets/images/thanks/qrcode-slides.png" width="50%" alt=""/></td>
-        <td align="center" width="33%"><img src="assets/images/thanks/qrcode-feedbacks.png" alt="" width="50%"/></td>
-        <td align="center" width="33%"><img src="assets/images/thanks/qrcode-sources.png" alt="" width="50%"/></td>
+        <td align="center" width="33%"><img src="assets/images/thanks/qrcode-slides.png" alt=""/></td>
+        <td align="center" width="33%"><img src="assets/images/thanks/qrcode-feedbacks.png" alt="" /></td>
+        <td align="center" width="33%"><img src="assets/images/thanks/qrcode-sources.png" alt="" /></td>
     </tr>
     <tr>
         <td>
@@ -23,6 +23,11 @@
         </td>
     </tr>
 </table>
+
+</br>
+</br>
+</br>
+</br>
 
 <img style="display: block; margin-left: auto; margin-right: auto; width: 20%" src="assets/images/thanks/minions.png" />
 

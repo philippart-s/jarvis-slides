@@ -1,8 +1,11 @@
 ## ✨ To go further .[slide-text]
 
-!image(assets/images/buzz.jpg, picocli,,, float: right; margin-top: -21vh; margin-right: -3vh;)
+!image(assets/images/buzz.jpg, picocli,,, float: right; margin-top: -19vh; margin-right: -3vh;)
 
 <div class="full-image-author  image-author-black"><a href="https://unsplash.com/fr/@sushioutlaw">Brian McGowan</a></div>
+
+</br>
+</br>
 
 - 📦 Automatic type encapsulation and converter 
 - 🔡 Dynamic default values, values validation, choice list, ...
