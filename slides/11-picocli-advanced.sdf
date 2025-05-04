@@ -9,7 +9,7 @@
 
 - 📦 Automatic type encapsulation and converter 
 - 🔡 Dynamic default values, values validation, choice list, ...
-- ⛑️ Generating __man__ pages, coloring, advanced help
+- ⛑️ Generating _man_ pages, coloring, advanced help
 - ⚙️ Several executables per OS with GraalVM
 
 /*
