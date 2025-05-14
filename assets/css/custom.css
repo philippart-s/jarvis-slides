@@ -203,6 +203,14 @@ h2 {
   color: #000;
 }
 
+.image-author-white a {
+  color: #fff;
+}
+
+.footer-white footer {
+  color: #fff;
+}
+
 .full-image-author {
   position: absolute;
   bottom: 30px;
@@ -211,7 +219,6 @@ h2 {
 }
 
 /** gestion des couleurs du footer **/
-.sd-slide.love.sd-current ~ .footer,
-.sd-slide.demos.sd-current ~ .footer {
+.sd-slide.white-footer.sd-current ~ .footer {
   color: #fff;
 }
