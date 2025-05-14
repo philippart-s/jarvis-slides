@@ -1,0 +1,21 @@
+## 🤖 AI Endpoints .[slide-text]
+
+!image(assets/images/ai-endpoints.webp, ovhcloud-api,,, float: right; margin-top: -20vh; margin-right: -3vh;)
+
+- 🧠 IA as a service
+- 🧱 Llama, Mistral, DeepSeek-R1-Distill, Llava-Next-Mistral, Nvidia RIVA ASR, …​
+- 👩‍💻 Developer oriented
+- ☁️ Trusted cloud, your data belongs to you
+- 🔓 Compliance with standard APIs, __unlock technologies__
+- 🔗 https://endpoints.ai.cloud.ovh.net/ 
+
+/*
+If you want more information about AI endpoints, here is a brief overview:
+AI endpoints provides AI as a service, offering various models like Llama, Mistral, and more. 
+They are made for developers, making them easy to integrate and use. 
+Your data is safe and secure in our trusted cloud environment.
+Additionally, these endpoints comply with standard APIs.
+
+And for a few days it's in general availability!
+
+*/

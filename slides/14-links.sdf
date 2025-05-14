@@ -1,6 +1,6 @@
-## 🔗 Liens .[slide-text]
+## 🔗 Links .[slide-text]
 
-!image(assets/images/devoxx-france-2024/logo-texte-devoxx-france-2-lignes-400.png,,,100, float: right; margin-top: -20vh)
+!image(assets/images/link.png,,,250, float: right; margin-top: -19vh)
 
 https://picocli.info/
 
@@ -17,3 +17,9 @@ https://www.graalvm.org/latest/docs/getting-started/
 https://github.com/quarkusio/quarkus/tree/main/devtools/cli
 
 https://github.com/gouz/slidesk
+
+/*
+
+If you want to explore more about the topics discussed, here are some links that might be of interest.
+
+*/

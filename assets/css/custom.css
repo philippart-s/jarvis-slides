@@ -44,7 +44,7 @@ h2 {
 
 .slide-text ul {
   margin: 2rem;
-  width: 62%;
+  width: 70%;
 }
 
 .slide-text ul li {
@@ -195,8 +195,12 @@ h2 {
 .img-right-author {
   position: absolute;
   font-size: small;
-  bottom: 1%;
-  right: 1%;
+  bottom: 3%;
+  right: 0.1%;
+}
+
+.image-author-black a {
+  color: #000;
 }
 
 .full-image-author {
