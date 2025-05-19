@@ -1,16 +1,16 @@
-## ✨ To go further .[slide-text]
+## ✨ Pour aller plus loin .[slide-text steps]
 
 !image(assets/images/buzz.jpg, picocli,,, float: right; margin-top: -19vh; margin-right: -3vh;)
 
 <div class="full-image-author  image-author-black"><a href="https://unsplash.com/fr/@sushioutlaw">Brian McGowan</a></div>
 
-</br>
-</br>
 
-- 📦 Automatic type encapsulation and converter 
-- 🔡 Dynamic default values, values validation, choice list, ...
-- ⛑️ Generating _man_ pages, coloring, advanced help
-- ⚙️ Several executables per OS with GraalVM
+
+- 📦 Encapsulation automatique des types et converteurs
+- 🔡 Valeurs par défaut dynamiques, validation des valeurs, liste de choix, ...
+- ⛑️ Génération des pages man, coloration, </br>aide avancée
+- ⚙️ Plusieurs exécutables par OS avec GraalVM
+- ...
 
 /*
 
