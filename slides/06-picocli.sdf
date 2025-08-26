@@ -4,11 +4,11 @@
 
 <div class="full-image-author image-author-black"><a href="https://picocli.info/">Picocli</a></div>
 
-- ☕️ Du java pour faire une CLI ...
-- ... mais pas que : <img src="assets/images/groovy.png" width="100px" style="display: inline-block; vertical-align: middle;"/>&nbsp;<img src="assets/images/kotlin.png" width="50px" style="display: inline-block; vertical-align: middle;"/>&nbsp;<img src="assets/images/scala.png" width="60px" style="display: inline-block; vertical-align: middle;"/>
-- 🥰 Simple grâce aux annotations
+- ☕️ Java to make a CLI...
+- ... but not only: <img src="assets/images/groovy.png" width="100px" style="display: inline-block; vertical-align: middle;"/>&nbsp;<img src="assets/images/kotlin.png" width="50px" style="display: inline-block; vertical-align: middle;"/>&nbsp;<img src="assets/images/scala.png" width="60px" style="display: inline-block; vertical-align: middle;"/>
+- 🥰 Simple with annotations
 - 🚀 Quarkus ❤️
-- 🧐 Une vraie CLI ?
+- 🧐 A real CLI?
 
 /*
 
