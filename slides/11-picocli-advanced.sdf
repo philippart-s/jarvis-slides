@@ -1,4 +1,4 @@
-## ✨ Pour aller plus loin .[slide-text steps]
+## ✨ To go further .[slide-text]
 
 !image(assets/images/buzz.jpg, picocli,,, float: right; margin-top: -19vh; margin-right: -3vh;)
 
@@ -6,10 +6,10 @@
 
 
 
-- 📦 Encapsulation automatique des types et converteurs
-- 🔡 Valeurs par défaut dynamiques, validation des valeurs, liste de choix, ...
-- ⛑️ Génération des pages man, coloration, </br>aide avancée
-- ⚙️ Plusieurs exécutables par OS avec GraalVM
+- 📦 Automatic type encapsulation and converter 
+- 🔡 Dynamic default values, values validation, choice list, ...
+- ⛑️ Generating _man_ pages, coloring, advanced help
+- ⚙️ Several executables per OS with GraalVM
 - ...
 
 /*

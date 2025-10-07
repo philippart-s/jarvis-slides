@@ -115,23 +115,6 @@ h2 {
   color: black;
 }
 
-.ovhcloud-world {
-  background-image: url(../images/ovhcloud-world.png);
-  background-size: cover;
-  display: block;
-  background-repeat: no-repeat;
-  background-position: center;
-  display: block;
-}
-
-.ovhcloud-world h2 {
-  color: #260691;
-  text-align: left;
-  position: absolute;
-  top: 5%;
-  left: 5%;
-}
-
 .graal h2 {
   color: #000;
   vertical-align: middle;

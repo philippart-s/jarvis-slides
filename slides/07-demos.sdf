@@ -1,8 +1,6 @@
-## .[demos white-footer]  
+## .[white-footer demos]
 
-
-
-<h1 style="color: #000; position: absolute;  top: 10%;  left: 45%;"> Démos</h1>
+<h1 style="color: #000; position: absolute;  top: 10%;  left: 45%;"> Demos</h1>
 <div class="full-image-author demo-image-author"><a href="https://www.illumination.com/">Illumination Entertainment</a></div>
 
 /*
